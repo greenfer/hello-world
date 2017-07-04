@@ -1,2 +1,2 @@
 # hello-world
-just to start around
+Jenny likes fruits
